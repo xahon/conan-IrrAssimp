@@ -1,0 +1,9 @@
+[settings]
+build_type=Release
+arch=x86_64
+arch_build=x86_64
+os=Linux
+os_build=Linux
+compiler=clang
+compiler.version=7.0
+compiler.libcxx=libstdc++11
